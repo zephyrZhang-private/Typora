@@ -101,9 +101,14 @@ chkconfig --list
 修改密码需要注意版本
 --5.6/5.1
 update mysql.user set password=password('i2') where user='i2';
-
 --5.7
 ALTER USER 'i2'@'%' IDENTIFIED BY 'i2';
 set password for 'i2'@'%'=password('i2');
+
+解决MySQLmax连接数不生效
+find && vim / -name mysqld.service
+LimitNOFILE=65535
+LimitNPROC=65535
+service mysqld restart
 ````
 
