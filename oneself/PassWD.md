@@ -2,12 +2,10 @@
 
 ## Email
 
-> 企业邮箱
+> 腾讯
 
 ````Email
-zhangw3@info2soft.com
-Zhangwei123
-ovgn2ANRwr7Ga99Z--专用密码	
+zwlovexxq1314
 ````
 
 > 网易邮箱
@@ -20,7 +18,7 @@ Zhangwei123
 ## Tencent
 
 ````
-123456zw
+qq安全：123456zw
 ````
 
 ## 学习强国
@@ -41,6 +39,6 @@ Zhangwei1
 
 ```` 
 zephyrZhang-private
-Zhangwei123
+Zhangwei@123
 ````
 
