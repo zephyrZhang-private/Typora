@@ -1,4 +1,4 @@
-# Linux静默安装oracle19c
+# Linux静默安装Oracle19c
 
 ## 一、前期准备
 
